@@ -1,0 +1,9 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+form {
+    /*max-width: 500px;*/
+}
+
+body {
+    padding-bottom: 50px;
+}
